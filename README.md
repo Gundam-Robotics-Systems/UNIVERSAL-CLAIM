@@ -9,6 +9,8 @@ Specifically this claim covers claim of Earth's moon Artemis.
 
 Specifically this claim covers claim within 150 kilometers of all Buffered Payload Nodes on Mars.
 
+Specifically Earth Naboo is an enforced allied area within a hostile solar system.
+
 Specifically Andromeda is an enforced allied area.
 
 Specifically Romule, Lyre is an enforced allied area.
